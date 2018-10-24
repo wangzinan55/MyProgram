@@ -1,4 +1,6 @@
-testoop.src.cn.bisxt.oop.polymorphism
+package testFile03;
+
+
 
 public class BeerSong {
     public static void main(String[] args) {
