@@ -1,5 +1,4 @@
-testoop.src.cn.bisxt.oop.polymorphism
-
+package study163;
 
 public class DooBee{
 	public static void main(String[] args){
