@@ -1,0 +1,8 @@
+sele_node pre_node 
+A A 
+B A 
+D B 
+F B 
+C A 
+G C 
+E A 

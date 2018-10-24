@@ -1,0 +1,7 @@
+sele_node pre_node weight
+v0 v0 0 
+v1 v0 5 
+v3 v1 18 
+v5 v3 9 
+v2 v3 15 
+v4 v2 3 

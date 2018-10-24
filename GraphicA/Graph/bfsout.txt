@@ -1,0 +1,9 @@
+sele_node pre_node 
+s s 
+r s 
+w s 
+v r 
+t w 
+x w 
+u t 
+y x 
