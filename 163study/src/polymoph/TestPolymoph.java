@@ -9,17 +9,24 @@ package polymoph;
  *
  */
 
-class Animal{
+abstract class Animal{   //当一个类含有抽象方法的时候，这个类必须被声明为抽象类
 	private String name;
 	
 	public Animal(String name) {
 		this.name = name;
 	}
 	
+	/*
 	public void enjoy() {
-		System.out.println("叫声。。。。。");
-	}
+		System.out.println("叫声。。。。。");  //有定义的必要但没实现的必要
+	}*/
+	
+	// 上面的方法可以用抽象类实现，抽象方法只需声明无须实现
+	public abstract void enjoy() ; 
+	
 }
+
+
 
 class Bird extends Animal{
 	public Bird() {
