@@ -68,7 +68,7 @@ class Lady{
 	}
 	
 	public void myPetEnjoy() {
-		pet.enjoy();
+		pet.enjoy(); //调用父类被重写的方法
 	}
 }
 
