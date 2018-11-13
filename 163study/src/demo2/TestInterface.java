@@ -1,9 +1,10 @@
 package demo2;
 
-import java.nio.file.StandardWatchEventKinds;
 
 /**
- * 
+ * 1.多个无关的类可以实现同一接口
+ * 2.一个类可以实现多个无关的接口
+ * 3.与继承类似，接口与实现类之间存在多态性
  *
  */
 
